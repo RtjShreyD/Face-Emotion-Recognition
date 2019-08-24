@@ -45,8 +45,8 @@ Download and put the .csv in fer2013/fer2013/
 
 
 # Credits
-[this](https://github.com/oarriaga/face_classification)
-[this](https://github.com/omar178/Emotion-recognition)
+https://github.com/oarriaga/face_classification
+https://github.com/omar178/Emotion-recognition
 
 # Troubleshooting
 
